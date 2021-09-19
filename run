@@ -5,7 +5,6 @@ import requests
 import time
 import random
 import argparse
-import nmap
 import re
 W  = '\033[0m'  # white (normal)
 R  = '\033[31m' # red
